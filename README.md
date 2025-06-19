@@ -7,10 +7,17 @@ This is an AI-powered voice assistant that answers phone calls using OpenAI's re
 ## 🚀 Features
 
 - Voice-to-Text transcription
+<<<<<<< HEAD
 - Real-time conversation using OpenAI
 - Call handling with Twilio
 - Low latency streaming via LiveKit
 - Fully customizable agent behavior via `instructions.txt`
+=======
+- Real-time response using OpenAI
+- Call handling with Twilio
+- Low latency via LiveKit
+- Customizable prompts (`instructions.txt`)
+>>>>>>> e2129e855679e1442101320374a25188a952aef9
 
 ---
 
